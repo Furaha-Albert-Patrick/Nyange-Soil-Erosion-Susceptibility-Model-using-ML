@@ -65,4 +65,4 @@ Note: the Earth Engine cell (`ee.Initialize()`, `FeatureCollection('projects/cer
 
 ## License
 
-[Add license here]
+Open source
